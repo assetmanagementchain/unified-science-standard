@@ -40,7 +40,8 @@ unified-science-standard/
 │   ├── computation_theory/            ← 即将完成：程序理论 CTS
 │   │   ├── CTS_v1.0.md
 │   │   ├── CTS_FormalAxioms.md
-│   │   └── CTS_ImplementationGuide.md
+│   │   ├── CTS_ImplementationGuide.md
+│   │   └── CTS_Compliance.md
 │   │
 │   ├── information_theory/            ← 动态信息论（SIT）：下一优先级
 │   │   ├── SIT_Standard_v1.0.md
