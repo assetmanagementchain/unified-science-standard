@@ -45,8 +45,9 @@ unified-science-standard/
 │   │
 │   ├── information_theory/            ← 动态信息论（SIT）：下一优先级
 │   │   ├── SIT_Standard_v1.0.md
-│   │   ├── structural_entropy.md
-│   │   └── info_dynamics_axioms.md
+│   │   ├── SIT_FormalAxioms.md
+│   │   ├── SIT_ImplementationGuide.md
+│   │   └── SIT_Compliance.md
 │   │
 │   ├── chemical_reaction_networks/    ← CRN-MSM：准备度 60%（可排下一个）
 │   │   ├── CRN_Standard_v1.0.md
